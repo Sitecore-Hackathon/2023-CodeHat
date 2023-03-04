@@ -12,6 +12,17 @@
 
 ## Description
 ⟹ Create a new SXA component to crop an image. It was created a headless component using Sitecore Experience Accelerator (SXA) to facilite the website creation and component reusability.
+We followed this link to configure the initial setup for SXA and Next.js
+
+https://www.getfishtank.com/blog/how-to-setup-xm-cloud-sitecore-10-sxa-headless-and-nextjs
+
+It was configured the following steps:
+- Setting up your tenant and site
+- Installing JSS
+- Creating and configured a Next.js project
+
+As initial configuration the site http://localhost:3000/
+
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
@@ -35,7 +46,6 @@ Open the file "PostPublishConfig.json" and configure the following variables: ms
 
 Run the following command in PowerShell to syncronize the Sitecore Items with unicorn.
 .\PostPublish.ps1 -solutionPath 'C:\Projects\2023-CodeHat\src'
-
 
 
 ## Usage instructions
