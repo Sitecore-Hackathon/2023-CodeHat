@@ -80,6 +80,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\Feature\CodeHat.Feature.PageContent.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <Content Include="Views\Page Content\ImageCrop.cshtml" />
     <Content Include="Views\Web.config" />
@@ -88,9 +89,10 @@
   <ItemGroup>
     <Compile Include="Controllers\PageContentController.cs" />
     <Compile Include="Models\ImageCropModel.cs" />
+    <Compile Include="Pipelines\RegisterWebApiRoutes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\IPageContentRepository.cs" />
-    <Compile Include="Repositories\PageContentRepository.cs" />
+    <Compile Include="Repositories\IImageCropRepository.cs" />
+    <Compile Include="Repositories\ImageCropRepository.cs" />
     <Compile Include="Templates.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -101,9 +103,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Config\Include\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

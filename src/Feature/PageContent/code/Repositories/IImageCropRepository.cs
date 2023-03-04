@@ -6,7 +6,7 @@ using System.Web;
 
 namespace CodeHat.Feature.PageContent.Repositories
 {
-    public interface IPageContentRepository: IModelRepository
+    public interface IImageCropRepository: IModelRepository
     {
 
     }

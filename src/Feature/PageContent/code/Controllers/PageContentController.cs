@@ -13,5 +13,12 @@ namespace CodeHat.Feature.PageContent.Controllers
         { 
             return View(); 
         }
+
+        [HttpPost]
+
+        public ActionResult UploadImage(string data)
+        {
+            return Json(new { results = "OK" }, JsonRequestBehavior.AllowGet);
+        }
     }
 }

@@ -8,7 +8,7 @@ using System.Web;
 
 namespace CodeHat.Feature.PageContent.Repositories
 {
-    public class PageContentRepository: ModelRepository, IPageContentRepository 
+    public class ImageCropRepository: ModelRepository, IImageCropRepository 
     {
         public override IRenderingModelBase GetModel()
         {
