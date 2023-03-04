@@ -11,8 +11,7 @@
 ⟹ SXA and Headless
 
 ## Description
-⟹ Create a new SXA component to crop an image 
-   - It was created a headless component using Sitecore Experience Accelerator (SXA) to facilite the website creation and component reusability.
+⟹ Create a new SXA component to crop an image. It was created a headless component using Sitecore Experience Accelerator (SXA) to facilite the website creation and component reusability.
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
@@ -37,25 +36,11 @@ Open the file "PostPublishConfig.json" and configure the following variables: ms
 Run the following command in PowerShell to syncronize the Sitecore Items with unicorn.
 .\PostPublish.ps1 -solutionPath 'C:\Projects\2023-CodeHat\src'
 
-### Configuration
-⟹ If there are any custom configuration that has to be set manually then remember to add all details here.
-
-_Remove this subsection if your entry does not require any configuration that is not fully covered in the installation instructions already_
+![image](https://user-images.githubusercontent.com/23084370/222929874-6fb5cc9e-1427-4816-8264-6a06d49bde95.png)
 
 ## Usage instructions
-⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
+The URL running in 3000 port is displayed the following screen.
 
-Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
-
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
-
-You can embed images of different formats too:
-
-![Deal With It](docs/images/deal-with-it.gif?raw=true "Deal With It")
-
-And you can embed external images too:
-
-![Random](https://thiscatdoesnotexist.com/)
 
 ## Comments
 If you'd like to make additional comments that is important for your module entry.
