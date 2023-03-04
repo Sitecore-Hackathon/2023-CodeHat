@@ -13,5 +13,6 @@
     <PackageReference Include="Sitecore.XA.Foundation.Mvc" Version="10.3.0" />
     <PackageReference Include="Sitecore.XA.Foundation.Presentation" Version="10.3.0" />
     <PackageReference Include="Sitecore.XA.Foundation.RenderingVariants" Version="10.3.0" />
+    <PackageReference Include="System.Text.Encodings.Web" Version="6.0.0" />
   </ItemGroup>
 </Project>

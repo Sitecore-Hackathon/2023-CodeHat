@@ -1,0 +1,18 @@
+﻿---
+ID: "a4b3fcf6-44f3-4c58-bbde-1dcb9d9028f3"
+Parent: "50fd7ee5-5a9c-4ef5-93f4-b18a04e70c35"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Data/Link Lists
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033922Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

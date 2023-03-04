@@ -14,6 +14,7 @@
     <PackageReference Include="Rainbow.Storage.Sc" Version="2.1.4" />
     <PackageReference Include="Rainbow.Storage.Yaml" Version="2.1.4" />
     <PackageReference Include="Sitecore.Kernel" Version="10.3.0" />
+    <PackageReference Include="System.Text.Encodings.Web" Version="6.0.0" />
     <PackageReference Include="Unicorn" Version="4.1.6" />
     <PackageReference Include="Unicorn.Core" Version="4.1.6" />
     <PackageReference Include="Unicorn.Roles" Version="4.1.6" />

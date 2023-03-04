@@ -1,0 +1,28 @@
+﻿---
+ID: "8a178747-b746-4026-9cac-3b6fd7a86222"
+Parent: "f512250b-888a-4716-be2d-c8ef4a5d5eee"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Media
+DB: master
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Type: Treelist
+  Value: |
+    {3AF49385-63C0-4A1B-9AB2-653753C86612}
+    {C01E6E87-A7B7-4088-85DC-DBB6270440A7}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033918Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

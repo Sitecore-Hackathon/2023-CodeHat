@@ -1,0 +1,10 @@
+﻿---
+ID: "503cd072-9d4e-494b-863f-f5acfeb5c310"
+Parent: "f512250b-888a-4716-be2d-c8ef4a5d5eee"
+Template: "cce54dc5-d5ed-4aeb-b475-dbef8e393e51"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

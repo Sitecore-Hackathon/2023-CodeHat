@@ -1,0 +1,18 @@
+﻿---
+ID: "4b236865-3440-4cdc-89bd-f6fef86309f5"
+Parent: "50fd7ee5-5a9c-4ef5-93f4-b18a04e70c35"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Data/Images
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033922Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
