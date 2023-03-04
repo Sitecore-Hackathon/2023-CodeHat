@@ -81,7 +81,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Feature\CodeHat.Feature.PageContent.config" />
-    <None Include="Properties\PublishProfiles\Local.pubxml" />
     <Content Include="Views\Page Content\ImageCrop.cshtml" />
     <Content Include="Views\Web.config" />
     <None Include="Web.config" />
