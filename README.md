@@ -36,11 +36,22 @@ Open the file "PostPublishConfig.json" and configure the following variables: ms
 Run the following command in PowerShell to syncronize the Sitecore Items with unicorn.
 .\PostPublish.ps1 -solutionPath 'C:\Projects\2023-CodeHat\src'
 
-![image](https://user-images.githubusercontent.com/23084370/222929874-6fb5cc9e-1427-4816-8264-6a06d49bde95.png)
+
 
 ## Usage instructions
 The URL running in 3000 port is displayed the following screen.
+Initial screen
+
+![image](https://user-images.githubusercontent.com/23084370/222929874-6fb5cc9e-1427-4816-8264-6a06d49bde95.png)
+
+Screen to upload an image
+
+![image](https://user-images.githubusercontent.com/23084370/222930029-3569d666-0b02-43b0-afd2-eb43dc8bec21.png)
+
+Screen to crop an image
+
+![image](https://user-images.githubusercontent.com/23084370/222930046-bc9512cf-edda-4f9c-b73e-5b61f28c8a00.png)
 
 
 ## Comments
-If you'd like to make additional comments that is important for your module entry.
+
