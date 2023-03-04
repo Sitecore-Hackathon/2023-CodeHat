@@ -52,6 +52,7 @@ Run the following command in PowerShell to syncronize the Sitecore Items with un
 
 ## Usage instructions
 The Toolbox with the new component is in the Experience Editor is included bellow.
+
 ![image](https://user-images.githubusercontent.com/23084370/222930457-366e09f2-3967-4e9d-a544-c30acbf58bb6.png)
 
 The URL running in 3000 port is displayed the following screen.
