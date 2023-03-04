@@ -19,6 +19,8 @@ It was configured the following steps:
 - Installing JSS
 - Creating and configured a Next.js project
 
+It is required to unzip the file "nextjsApp (1).7z" that is located inside Scripts/install on the computer path C:\hackaton\nextjsApp\codehat-nextjs
+
 As initial configuration the site http://localhost:3000/
 
 ![image](https://user-images.githubusercontent.com/23084370/222930493-cf1ec132-bb14-4fe8-84e1-d11575287052.png)
