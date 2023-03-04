@@ -64,7 +64,7 @@
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\include\Project\CodeHat.Project.Site.Serialization.config" />
+    <Content Include="App_Config\include\Project\CodeHat.Site.Serialization.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.config" />
   </ItemGroup>

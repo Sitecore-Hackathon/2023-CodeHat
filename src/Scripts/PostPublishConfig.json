@@ -2,7 +2,7 @@
   "__comment_config": "This configuration file is used by PostPublish.ps1.",
   "config": {
     "__comment_msBuildExe": "The script will look for your msbuild.exe in visualstudio 2017 default path. msBuildExe is a optional fallback value if no msbuild.exe is found",
-    "msBuildExe": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\msbuild.exe",
+    "msBuildExe": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\msbuild.exe",
     "siteName": "codehat.dev.local", 
     "__comment__prune": "Only use with sitecore 9 due to folder structure. Removes all files and folders in /App_Config/Include",
     "prune": false

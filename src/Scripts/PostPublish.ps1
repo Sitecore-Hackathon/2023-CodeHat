@@ -15,7 +15,7 @@ Function GetJsonConfig{
 Function Find-MsBuild([string] $path)
 {
 	$rootPath = "C:\Program Files\Microsoft Visual Studio\2022"
-	$buildPart = "Community\MSBuild\Current\Bin\msbuild.exe"
+	$buildPart = "Professional\MSBuild\Current\Bin\msbuild.exe"
 	$agentPath = "$rootPath$vsPart\BuildTools\$buildPart"
 	If (Test-Path $agentPath) { return $agentPath } 
 	$agentPath = "$rootPath$vsPart\Enterprise\$buildPart"
