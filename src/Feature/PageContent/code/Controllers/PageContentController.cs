@@ -1,4 +1,5 @@
-﻿using Sitecore.XA.Foundation.Mvc.Controllers;
+﻿using CodeHat.Feature.PageContent.Repositories;
+using Sitecore.XA.Foundation.Mvc.Controllers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +10,16 @@ namespace CodeHat.Feature.PageContent.Controllers
 {
     public class PageContentController: StandardController
     {
+        private readonly IImageCropRepository _imageCropRepository;
+
+        public PageContentController(IImageCropRepository imageCropRepository)
+        {
+            _imageCropRepository = imageCropRepository;
+        }
         public ActionResult ImageCrop() 
-        { 
-            return View(); 
+        {
+            var model = _imageCropRepository.GetModel();
+            return View(model); 
         }
 
         [HttpPost]

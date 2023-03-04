@@ -23,10 +23,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{0F1C6FE2-5716-47C7-9372-DF61F5555487}"
-              s:ds="local:/Data/Text 1"
-              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B10657BD3-1413-49B2-88FC-0C26E77F740F%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=2"
+              uid="{A37050E3-A212-4E5B-B0C2-42B1DC494AFE}"
+              s:ds="{89BC39C0-6627-400A-B868-7A1F8F2F548C}"
+              s:id="{E9E85126-22AD-44D5-8D0E-D4A7754B6A24}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
           </d>
         </r>
@@ -35,7 +35,7 @@ Languages:
       Value: 20230304T033918Z
     - ID: "3b58fc4a-878e-4423-9afe-a306d02dfb66"
       Hint: Title
-      Value: SXAEnhancement
+      Value: Home Page Code Hat
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: SXAEnhancement
