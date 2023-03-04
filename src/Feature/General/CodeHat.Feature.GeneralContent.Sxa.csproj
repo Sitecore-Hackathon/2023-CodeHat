@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>CodeHat.Feature.GeneralContent.Sxa</RootNamespace>
+    <AssemblyName>CodeHat.Feature.GeneralContent.Sxa</AssemblyName>
+    <SitecoreRoleType>platform</SitecoreRoleType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectCapability Include="SupportsSystemWeb" />
+  </ItemGroup>
+    <ItemGroup>
+    <PackageReference Include="Sitecore.Kernel" Version="10.3.0" />
+    <PackageReference Include="Sitecore.XA.Foundation.Mvc" Version="10.3.0" />
+    <PackageReference Include="Sitecore.XA.Foundation.Presentation" Version="10.3.0" />
+    <PackageReference Include="Sitecore.XA.Foundation.RenderingVariants" Version="10.3.0" />
+  </ItemGroup>
+</Project>
