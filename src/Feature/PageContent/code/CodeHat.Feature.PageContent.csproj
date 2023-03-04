@@ -83,6 +83,7 @@
     <Content Include="App_Config\Include\Feature\CodeHat.Feature.PageContent.config" />
     <Content Include="Views\Page Content\ImageCrop.cshtml" />
     <Content Include="Views\Web.config" />
+    <Content Include="App_Config\Include\Feature\CodeHat.Feature.PageContent.Serialization.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

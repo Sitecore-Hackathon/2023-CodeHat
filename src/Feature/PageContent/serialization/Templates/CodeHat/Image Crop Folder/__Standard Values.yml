@@ -1,0 +1,23 @@
+﻿---
+ID: "25631aed-f544-434e-8279-116514c22e82"
+Parent: "393393a7-c4a1-4325-850e-dc1d469d3772"
+Template: "393393a7-c4a1-4325-850e-dc1d469d3772"
+Path: /sitecore/templates/Feature/CodeHat/Image Crop Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6A6D0661-8F85-4AC1-8067-3DD80EA46E37}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T132244Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

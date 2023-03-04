@@ -1,0 +1,18 @@
+﻿---
+ID: "e4079311-c622-4317-9fcc-a9093d3568cf"
+Parent: "6a6d0661-8f85-4ac1-8067-3dd80ea46e37"
+Template: "6a6d0661-8f85-4ac1-8067-3dd80ea46e37"
+Path: /sitecore/templates/Feature/CodeHat/Image Crop/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T132324Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
