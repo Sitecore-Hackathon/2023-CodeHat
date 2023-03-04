@@ -1,0 +1,14 @@
+﻿---
+ID: "eb235abe-3601-4ef5-bdb3-cfaa4d1d3717"
+Parent: "375a9937-5f37-4fd1-a323-124944544fb0"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Presentation/Headless Variants
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033919Z

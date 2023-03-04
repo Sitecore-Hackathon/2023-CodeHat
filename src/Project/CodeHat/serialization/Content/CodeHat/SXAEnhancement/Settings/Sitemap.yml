@@ -1,0 +1,14 @@
+﻿---
+ID: "b84c3691-fcba-4fac-9d20-ac8e17a47818"
+Parent: "7f42d6b9-acf0-4a0b-88ea-0e5c1633b7c7"
+Template: "c71d8566-35c8-49b7-a84d-9d176e9cbd05"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Settings/Sitemap
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033919Z

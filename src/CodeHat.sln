@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{8E20E640-376A-4147-84A6-25ED878EEA36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PageContent", "PageContent", "{9D9481EF-080D-4663-BF88-90B4C9BB1226}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{26EFFA6D-B977-44E7-A9D6-64D86716331B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{8B95867C-7F40-403F-AB7E-4B77372C020D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeHat.Feature.PageContent", "Feature\PageContent\code\CodeHat.Feature.PageContent.csproj", "{DBF7A028-4960-4A18-9209-634EAB70D414}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{0496E34F-09E8-444D-9CDE-0B9E41D50CF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeHat", "CodeHat", "{43A40D35-2783-4E8F-AD96-81E0FE6844C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeHat.Project.Site", "Project\CodeHat\code\CodeHat.Project.Site.csproj", "{130518F1-259F-43ED-9B71-B62505747E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeHat.Foundation.Serialization.Sxa", "Foundation\Serialization\code\CodeHat.Foundation.Serialization.Sxa.csproj", "{90AB5ECB-A288-4C47-9A30-AE53134622BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF7A028-4960-4A18-9209-634EAB70D414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF7A028-4960-4A18-9209-634EAB70D414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF7A028-4960-4A18-9209-634EAB70D414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF7A028-4960-4A18-9209-634EAB70D414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130518F1-259F-43ED-9B71-B62505747E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130518F1-259F-43ED-9B71-B62505747E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130518F1-259F-43ED-9B71-B62505747E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130518F1-259F-43ED-9B71-B62505747E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AB5ECB-A288-4C47-9A30-AE53134622BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AB5ECB-A288-4C47-9A30-AE53134622BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AB5ECB-A288-4C47-9A30-AE53134622BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AB5ECB-A288-4C47-9A30-AE53134622BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D9481EF-080D-4663-BF88-90B4C9BB1226} = {8E20E640-376A-4147-84A6-25ED878EEA36}
+		{8B95867C-7F40-403F-AB7E-4B77372C020D} = {26EFFA6D-B977-44E7-A9D6-64D86716331B}
+		{DBF7A028-4960-4A18-9209-634EAB70D414} = {9D9481EF-080D-4663-BF88-90B4C9BB1226}
+		{43A40D35-2783-4E8F-AD96-81E0FE6844C3} = {0496E34F-09E8-444D-9CDE-0B9E41D50CF2}
+		{130518F1-259F-43ED-9B71-B62505747E6D} = {43A40D35-2783-4E8F-AD96-81E0FE6844C3}
+		{90AB5ECB-A288-4C47-9A30-AE53134622BD} = {8B95867C-7F40-403F-AB7E-4B77372C020D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+		SolutionGuid = {29CB2FD9-D1EA-4AD1-9EAD-D2A0F8F85D11}
+	EndGlobalSection
+EndGlobal

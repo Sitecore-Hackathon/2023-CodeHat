@@ -1,0 +1,65 @@
+﻿---
+ID: "7f42d6b9-acf0-4a0b-88ea-0e5c1633b7c7"
+Parent: "f512250b-888a-4716-be2d-c8ef4a5d5eee"
+Template: "094eb492-d124-4dfe-9d47-c815f045a316"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Settings
+DB: master
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "0129da3f-8c86-4591-ae32-6ec923413923"
+  Hint: DictionaryDomain
+  Value: "{E44DCD26-8A72-4890-B709-F6921B46F72E}"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
+  Hint: RouteTemplateName
+  Value: Settings Route
+- ID: "32ce6bbe-4217-46e5-9335-42793884cbe3"
+  Hint: AppTemplate
+  Value: "{A82979F1-EF19-4A2D-9129-0D0DB3C54F23}"
+- ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
+  Hint: Name
+  Value: SXAEnhancement
+- ID: "5764d2d4-724d-4313-a81b-9246c911faff"
+  Hint: AppDatasourcesPath
+  Value: "{50FD7EE5-5A9C-4EF5-93F4-B18A04E70C35}"
+- ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
+  Hint: PlaceholdersPath
+  Value: "{B13689CA-E569-4E5C-A3AA-684DBFFE7CD4}"
+- ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
+  Hint: FilesystemPath
+  Value: /dist/SXAEnhancement
+- ID: "9016141c-ff51-40f2-9135-40f5161b9784"
+  Hint: ServerSideRenderingEngine
+  Value: http
+- ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
+  Hint: DictionaryPath
+  Value: "{E44DCD26-8A72-4890-B709-F6921B46F72E}"
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{3BCAB9EF-1E4F-4C23-B452-783BB82AA686}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+- ID: "c8d002f9-9518-4c5e-9baa-6617e13f0797"
+  Hint: LayoutPath
+  Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{4CCB8E81-6E39-48BF-ABD2-F1D285EC70F1}"
+- ID: "f29428d5-1285-48b8-a884-44057965829a"
+  Hint: RenderingsPath
+  Value: "{1A2AB988-819A-4D8F-A7AF-AB222EF4AA5A}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033918Z

@@ -1,0 +1,21 @@
+﻿---
+ID: "73ffde83-8999-4b2c-ad4e-8e42a7c6f88b"
+Parent: "d96612d6-08e2-4b45-a9b0-699aa2008e34"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Home/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T072426Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: 

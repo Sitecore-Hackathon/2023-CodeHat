@@ -1,0 +1,18 @@
+﻿---
+ID: "20a62907-5022-4023-9ba6-8a2911492555"
+Parent: "50fd7ee5-5a9c-4ef5-93f4-b18a04e70c35"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Data/Promos
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033923Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

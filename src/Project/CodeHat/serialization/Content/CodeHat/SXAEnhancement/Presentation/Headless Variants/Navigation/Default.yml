@@ -1,0 +1,23 @@
+﻿---
+ID: "44c34c1c-67ea-4491-9452-634a43e99d50"
+Parent: "2222ec2f-0203-41e6-bc0b-375c8e4a934e"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Presentation/Headless Variants/Navigation/Default
+DB: master
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{25F1A8E5-EB4C-4202-A9F7-A97DB52DA9AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T033923Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

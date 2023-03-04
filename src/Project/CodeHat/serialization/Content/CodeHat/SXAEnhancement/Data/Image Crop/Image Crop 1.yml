@@ -1,0 +1,14 @@
+﻿---
+ID: "89bc39c0-6627-400a-b868-7a1f8f2f548c"
+Parent: "b3c78e9d-aad2-4194-a58d-5404de2aa3ec"
+Template: "6a6d0661-8f85-4ac1-8067-3dd80ea46e37"
+Path: /sitecore/content/CodeHat/SXAEnhancement/Data/Image Crop/Image Crop 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T175205Z
