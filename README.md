@@ -31,10 +31,10 @@ As initial configuration the site http://localhost:3000/
 
 
 ## Pre-requisites and Dependencies
-- Pre-requisites:
-- Sitecore 10.3 clean installation.
+As pre-requisite it is required a Sitecore 10.3 clean site installation.
 
-- Dependencies:
+As dependencies the following ones:
+
 - Sitecore PowerShell module. Sitecore.PowerShell.Extensions-6.4-IAR.zip
 - Sitecore Headless Services. Sitecore Headless Services Server XP 21.0.583.zip
 - Sitecore Experience Accelerator. Sitecore Experience Accelerator 10.3.0 rev. 00074
