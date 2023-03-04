@@ -67,5 +67,3 @@ Screen to crop an image
 ![image](https://user-images.githubusercontent.com/23084370/222930046-bc9512cf-edda-4f9c-b73e-5b61f28c8a00.png)
 
 
-## Comments
-
