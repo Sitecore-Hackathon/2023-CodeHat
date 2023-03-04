@@ -11,13 +11,8 @@
 ⟹ SXA and Headless
 
 ## Description
-⟹ Write a clear description of your hackathon entry.  
-
-  - SXA component to crop an image
-  - What problem was solved (if any)
-    - It was created a headless component using Sitecore Experience Accelerator (SXA) to facilite the website creation and component reuse.
-
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+⟹ Create a new SXA component to crop an image 
+   - It was created a headless component using Sitecore Experience Accelerator (SXA) to facilite the website creation and component reusability.
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
@@ -25,37 +20,22 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 ⟹ [Replace this Video link](#video-link)
 
 
-
 ## Pre-requisites and Dependencies
+- Pre-requisites:
+- Sitecore 10.3 clean installation.
 
-⟹ Does your module rely on other Sitecore modules or frameworks?
-
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
-
-_Remove this subsection if your entry does not have any prerequisites other than Sitecore_
+- Dependencies:
+- Sitecore PowerShell module. Sitecore.PowerShell.Extensions-6.4-IAR.zip
+- Sitecore Headless Services. Sitecore Headless Services Server XP 21.0.583.zip
+- Sitecore Experience Accelerator. Sitecore Experience Accelerator 10.3.0 rev. 00074
 
 ## Installation instructions
-⟹ Write a short clear step-wise instruction on how to install your module.  
 
-> _A simple well-described installation process is required to win the Hackathon._  
-> Feel free to use any of the following tools/formats as part of the installation:
-> - Sitecore Package files
-> - Docker image builds
-> - Sitecore CLI
-> - msbuild
-> - npm / yarn
-> 
-> _Do not use_
-> - TDS
-> - Unicorn
- 
-for example:
+Download the code from this repository. Navigate to this folder [Project solution path]\src\Scripts
+Open the file "PostPublishConfig.json" and configure the following variables: msBuildExe and siteName. msBuildExe contains the msbuild executable path for Visual Studio 2022. siteName is codehat.dev.local.
 
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ...
-3. profit
+Run the following command in PowerShell to syncronize the Sitecore Items with unicorn.
+.\PostPublish.ps1 -solutionPath 'C:\Projects\2023-CodeHat\src'
 
 ### Configuration
 ⟹ If there are any custom configuration that has to be set manually then remember to add all details here.
