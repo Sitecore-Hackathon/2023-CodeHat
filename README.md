@@ -27,10 +27,7 @@ As initial configuration the site http://localhost:3000/
 
 
 ## Video link
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
-
-⟹ [Replace this Video link](#video-link)
-
+Here the video https://www.youtube.com/watch?v=Oqb_pqK4lYs
 
 ## Pre-requisites and Dependencies
 As pre-requisite it is required a Sitecore 10.3 clean site installation.
