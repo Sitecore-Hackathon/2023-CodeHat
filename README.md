@@ -23,6 +23,8 @@ It was configured the following steps:
 
 As initial configuration the site http://localhost:3000/
 
+![image](https://user-images.githubusercontent.com/23084370/222930493-cf1ec132-bb14-4fe8-84e1-d11575287052.png)
+
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
@@ -49,6 +51,9 @@ Run the following command in PowerShell to syncronize the Sitecore Items with un
 
 
 ## Usage instructions
+The Toolbox with the new component is in the Experience Editor is included bellow.
+![image](https://user-images.githubusercontent.com/23084370/222930457-366e09f2-3967-4e9d-a544-c30acbf58bb6.png)
+
 The URL running in 3000 port is displayed the following screen.
 Initial screen
 
